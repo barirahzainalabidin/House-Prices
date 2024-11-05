@@ -8,8 +8,7 @@ Tutorial machine learning task : Train, Managing and tracking machine learning e
 # 1. Train Model Using Microsoft Azure 
 
 
-# 2. Train Model Using Google Cloud Platfrom ( Vertex AI )
-
+# 2. Train Model Using Vertex AI ( GCP )
 
 
 # 3. Managing and tracking machine learning experiments / MLOps
