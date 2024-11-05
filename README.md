@@ -15,7 +15,7 @@ Link - https://github.com/barirahzainalabidin/House-Prices-Advanced-Regression-T
 
 
 
-# 3. Managing and tracking machine learning experiments / MLOps
+# 3. Managing and tracking machine learning experiments ML Flow + Neptune AI / MLOps
 
 
 Link - https://github.com/barirahzainalabidin/ML-Flow-Neptune-AI/tree/main/House-Price
